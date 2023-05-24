@@ -1,0 +1,321 @@
+Index_Place,City,Name_SMEs,General_Category,Specialty,Price_Range,Rating,Goods
+J_01,Jakarta,Jari Indahati,Craft,Tas Rotan Batik,>50.000,4.5,Souvenir
+J_02,Jakarta,AiU Craft,Craft,Tas Kanvas,>50.000,4.9,Souvenir
+J_03,Jakarta,Noei Craft,Craft,Souvenir Goni,25.000-50.000,4.8,Souvenir
+J_04,Jakarta,Al zheefa Lombok Craft,Craft,Tas Anyaman,>50.000,5,Souvenir
+J_05,Jakarta,Betawi Online Gallery,Craft,"Miniatur Monas, Miniatur Ondel-Ondel",25.000-50.000,4.6,Souvenir
+J_06,Jakarta,Reyhan Souvenir,Craft,Gantungan Kunci Monas,<25.000,4.7,Souvenir
+J_07,Jakarta,Flanelly Businesz,Craft,Alat Tulis Ondel-Ondel,<25.000,4.8,Souvenir
+J_08,Jakarta,Native Borneo,Craft,Tas Anyaman,>50.000,4.9,Souvenir
+J_09,Jakarta,Poi Poi,Craft,Lampion Kertas Gantung,<25.000,4.9,Souvenir
+J_10,Jakarta,J-Craft,Craft,Masker,<25.000,5,Daily Needs
+J_11,Jakarta,Meblia Wooden Home Furnish & Crafts,Craft,Perlengkapan Rumah berbahan Kayu,>50.000,4.8,Household Items
+J_12,Jakarta,Rambu Ata Art & Furniture,Craft,Mebel,>50.000,4.8,Household Items
+J_13,Jakarta,Kotak Pengrajin,Craft,"Nampan, alas piring",>50.000,5,Household Items
+J_14,Jakarta,Awa Shop,Craft,"Cobek, tampah, bakul nasi",<25.000,4.8,Daily Needs
+J_15,Jakarta,Batavia Market,Craft,Cobek batu,25.000-50.000,4.7,Daily Needs
+J_16,Jakarta,Tajjaba Natural Ethnical,Craft,"Gelas, Sendok, Garpu, Piring kayu",<25.000,4.6,Daily Needs
+J_17,Jakarta,Oesing Craft Wood Tableware,Craft,"Piring Kayu Bulat Bersekat, Mangkok Kayu, Sendok Garpu Kayu Jati",25.000-50.000,4.8,Daily Needs
+J_18,Jakarta,Catkin Handycraft,Craft,Dudukan Bantal,25.000-50.000,5,Daily Needs
+J_19,Jakarta,Brown Bowl,Craft,Pot Tanah Liat,25.000-50.000,4.9,Daily Needs
+J_20,Jakarta,Dodol Betawi Asli Ibu HJ. Mamas,Munchies,Dodol,25.000-50.000,4.6,Snack
+J_21,Jakarta,Djuragan Tape Uli Betawi,Munchies,Ketan Uli,25.000-50.000,4.9,Snack
+J_22,Jakarta,Talam Durian Jakarta,Munchies,Kue Talam,>50.000,5,Snack
+J_23,Jakarta,Asinan Sayur Kebon Kacang,Munchies,Asinan,<25.000,4.6,Street Snacks
+J_24,Jakarta,89 Camilan,Munchies,Kue Cincin,<25.000,4.8,Street Snacks
+J_25,Jakarta,Toko Kue Sumber Mas,Munchies,Kue Akar Kelapa,25.000-50.000,4.3,Snack
+J_26,Jakarta,Neng Mae,Munchies,Biji Ketapang,<25.000,4.8,Street Snacks
+J_27,Jakarta,Cemilan Nomello,Munchies,Pencok Betawi,>50.000,4.7,Snack
+J_28,Jakarta,Rempeyek De Is Diaspora UMKM,Munchies,Rempeyek,25.000-50.000,5,Snack
+J_29,Jakarta,Dodol Betawi Hb. Toha,Munchies,Dodol,25.000-50.000,4.8,Snack
+J_30,Jakarta,Kerak Telor Khas Betawi Al Aziz,Munchies,Kerak Telor,<25.000,4,Street Snacks
+J_31,Jakarta,Es Podeng 09,Munchies,Es Podeng,<25.000,5,Street Snacks
+J_32,Jakarta,Nadia Jus,Munchies,Jus Buah,<25.000,4.5,Street Snacks
+J_33,Jakarta,Freshjus Juice Buah Jus Bubble,Munchies,Jus Buah,<25.000,4.4,Street Snacks
+J_34,Jakarta,Kerak Telor Bang Doel,Munchies,Kerak Telor,<25.000,4.6,Street Snacks
+J_35,Jakarta,Ketoprak Cobek Pak Yono,F&B,Ketoprak,25.000-50.000,4.7,Main Course
+J_36,Jakarta,Soto Jakarta Pak Haji Yus,F&B,Soto Betawi,>50.000,4.5,Main Course
+J_37,Jakarta,Nasi Goreng Bang Ronie,F&B,Nasi Goreng,25.000-50.000,4.7,Main Course
+J_38,Jakarta,Nasi Uduk Jakarta Mas Afin,F&B,Nasi Uduk,<25.000,4.6,Street Food
+J_39,Jakarta,"Soto Betawi ""Senen Jaya""",F&B,Soto Betawi,>50.000,4.8,Main Course
+J_40,Jakarta,Pempek Cik Mi 28,F&B,Pempek,25.000-50.000,4.4,Main Course
+J_41,Jakarta,Nasi Gila Pangpol,F&B,Nasi Goreng Gila,25.000-50.000,4.5,Main Course
+J_42,Jakarta,Nasi Uduk Betawi Kemandoran Bang Ama,F&B,Nasi Uduk,<25.000,4.5,Street Food
+J_43,Jakarta,Ketupat Sayur Pecenongan,F&B,Ketupat Sayur,<25.000,4.8,Street Food
+J_44,Jakarta,Gado-Gado Pak Udin,F&B,Gado-Gado,<25.000,4.3,Street Food
+J_45,Jakarta,Seafood Ayu,F&B,Seafood,>50.000,4.5,Main Course
+J_46,Jakarta,"Sate Maranggi & Sop Iga Khas Purwakarta Telaga Biru, Haji Nawi Raya",F&B,"Sate Maranggi, Sop Iga",>50.000,4.6,Main Course
+J_47,Jakarta,Omar Brownies,Munchies,Brownies,>50.000,4.9,Snack
+J_48,Jakarta,Dapoer Ammar - Agen Donat Murah,Munchies,Donat,<25.000,4.8,Street Snacks
+J_49,Jakarta,Donat Ade,Munchies,Donat,<25.000,5,Street Snacks
+J_50,Jakarta,SEMPRONG ISI BEST SELLER,Munchies,Semprong,25.000-50.000,4.9,Snack
+J_51,Jakarta,Camilove Indonesia (Aneka Kue Kering),Munchies,Kue kering,25.000-50.000,4,Snack
+J_52,Jakarta,Karin Kukis,Munchies,Cookies Karakter,>50.000,4.7,Snack
+J_53,Jakarta,Roti Buaya Bas Snack,Munchies,Roti Buaya besar,>50.000,4.6,Snack
+J_54,Jakarta,Rumah Roti Ciracas,Munchies,Roti Buaya mini,<25.000,5,Street Snacks
+J_55,Jakarta,Juragan Roti,Munchies,Roti Buaya mini,<25.000,5,Street Snacks
+J_56,Jakarta,Es Podeng Pandawa ,Munchies,Es Podeng,<25.000,3.3,Street Snacks
+J_57,Jakarta,Es Cendol Puas 99,Munchies,Es Cendol,<25.000,4.1,Street Snacks
+J_58,Jakarta,Es Cendol Durian SariSuji,Munchies,Cendol Durian,<25.000,4.5,Street Snacks
+J_59,Jakarta,Cincau Ciragil,Munchies,Es Cincau,<25.000,4.7,Street Snacks
+J_60,Jakarta,Es Buah Segar Pak Daud,Munchies,Es buah,<25.000,4.6,Street Snacks
+J_61,Jakarta,Ijah Juice,Munchies,Jus Buah,<25.000,5,Street Snacks
+J_62,Jakarta,Es Buah & Es Teler Bapakè,Munchies,"Es buah, es teler",<25.000,4.7,Street Snacks
+J_63,Jakarta,Belleza Outlet,Fashion,Baju Rajut Wanita,25.000-50.000,4.6,Casual Fashion
+J_64,Jakarta,Yemima Collection,Fashion,Legging Anak Motif,<25.000,4.8,Casual Fashion
+J_65,Jakarta,Andalas Clothing,Fashion,Kaos Polos,25.000-50.000,4.8,Casual Fashion
+J_66,Jakarta,Dienda Fashion,Fashion,Pakaian Wanita,>50.000,4.5,Formal Fashion
+J_67,Jakarta,Polos.co.id,Fashion,Kaos Polos,<25.000,4.5,Casual Fashion
+J_68,Jakarta,SanderAllshope,Fashion,Kaos Jakarta,<25.000,4.4,Casual Fashion
+J_69,Jakarta,D.v_store88,Fashion,Kaos Jakarta,<25.000,4.6,Casual Fashion
+J_70,Jakarta,Batik Betawi Terogong,Fashion,Batik,>50.000,4.7,Formal Fashion
+J_71,Jakarta,Bagus Batik,Fashion,Batik,>50.000,5,Formal Fashion
+J_72,Jakarta,Ursula Batik,Fashion,Batik,>50.000,4.8,Formal Fashion
+J_73,Jakarta,Damaifashion,Fashion,Kaos Wanita,<25.000,4.6,Casual Fashion
+Y_01,Yogyakarta,Dian Handycraft,Craft,Kerajinan Serat Alam,>50.000,4.6,Souvenir
+Y_02,Yogyakarta,Moje Bag,Craft,"Sling Bag Goni, Dompet HP Goni",<25.000,4.8,Souvenir
+Y_03,Yogyakarta,I Craft,Craft,Dompet Kulit,>50.000,4.8,Souvenir
+Y_04,Yogyakarta,Produksi Tote Bag Jogja,Craft,Tote Bag Custom,25.000-50.000,5,Souvenir
+Y_05,Yogyakarta,Kenangan Jogjaku,Craft,Tas Jinjing Batik Kecil,<25.000,4.8,Souvenir
+Y_06,Yogyakarta,Walidi Craft,Craft,"Miniatur sepeda, becak, vespa",>50.000,4.6,Souvenir
+Y_07,Yogyakarta,Toko Mebi,Craft,Boneka Flanel,25.000-50.000,4.8,Souvenir
+Y_08,Yogyakarta,Anyaman Kita,Craft,Dompet,<25.000,4.9,Souvenir
+Y_09,Yogyakarta,Yesclean market,Craft,Kursi Rotan,>50.000,5,Household Items
+Y_10,Yogyakarta,Ais Jogja Craft,Craft,Kap Lampu Gantung,>50.000,4.9,Household Items
+Y_11,Yogyakarta,Kerajinan Anyaman B Craft,Craft,Hiasan Dinding,25.000-50.000,4.9,Household Items
+Y_12,Yogyakarta,Modemku Mega Sarana,Craft,Cobek Bakar Tanah Liat,<25.000,4.7,Daily Needs
+Y_13,Yogyakarta,Marem Project,Craft,Alat Makan Kayu,<25.000,4.8,Daily Needs
+Y_14,Yogyakarta,Jogja Aesthetic,Craft,Taplak Meja Anyaman,>50.000,5,Household Items
+Y_15,Yogyakarta,Kay Home Decor,Craft,Perlengkapan Rumah Tangga,>50.000,4.9,Household Items
+Y_16,Yogyakarta,Batik Pekalongan,Fashion,"Baju Batik, Kain Batik",>50.000,5,Formal Fashion
+Y_17,Yogyakarta,Kaos Jogja Capung Tshirt,Fashion,Kaos Jogja,25.000-50.000,4.9,Casual Fashion
+Y_18,Yogyakarta,Kunin Daster,Fashion,Daster Motif,<25.000,4.7,Casual Fashion
+Y_19,Yogyakarta,Buytique Batik Bu Endang,Fashion,Baju Batik ,>50.000,5,Formal Fashion
+Y_20,Yogyakarta,Ababil Hijab ,Fashion,Hijab Motif,<25.000,4.8,Casual Fashion
+Y_21,Yogyakarta,Dewi Murah Batik Kaos Konveksi,Fashion,Baju Batik,25.000-50.000,4.8,Formal Fashion
+Y_22,Yogyakarta,Cleosa Boutique,Fashion,"Baju Muslim, Baju Wanita",>50.000,5,Formal Fashion
+Y_23,Yogyakarta,Toko Pakaian Serba 35000,Fashion,Pakaian Wanita dan Laki-laki,25.000-50.000,3.5,Casual Fashion
+Y_24,Yogyakarta,Wiyoga,Fashion,Kaos Jogja,<25.000,4.8,Casual Fashion
+Y_25,Yogyakarta,Arsha Knite,Fashion,Cardigan,25.000-50.000,4.7,Casual Fashion
+Y_26,Yogyakarta,Tawa Snacks,Munchies,"Lanting, Kripik Pare, Kripik Belut",<25.000,4.8,Street Snacks
+Y_27,Yogyakarta,Yangko Mira,Munchies,Yangko,<25.000,4.7,Street Snacks
+Y_28,Yogyakarta,Gethuk Trio,Munchies,Gethuk Tiga Rasa,25.000-50.000,4.4,Snack
+Y_29,Yogyakarta,Soklat'e Jogja,Munchies,Coklat,25.000-50.000,4.7,Snack
+Y_30,Yogyakarta,Emhy Shop,Munchies,"Jenang Krasikan, Madu Mongso",25.000-50.000,4.9,Snack
+Y_31,Yogyakarta,Batagor Siomay Putra Abimanyu,Munchies,Batagor,<25.000,4.3,Street Snacks
+Y_32,Yogyakarta,Siomay Telkom Kotabaru,Munchies,Siomay,<25.000,4.4,Street Snacks
+Y_33,Yogyakarta,Cilok Legend Bumbu Kacang,Munchies,Cilok,<25.000,3.9,Street Snacks
+Y_34,Yogyakarta,Ayam Geprek Bu Made,F&B,Ayam Geprek,<25.000,4.7,Street Food
+Y_35,Yogyakarta,Sate Klathak Pak Bari Pasar Wonokromo,F&B,Sate ,25.000-50.000,4.3,Main Course
+Y_36,Yogyakarta,Mie Ayam Bu Tumini,F&B,Mie Ayam,<25.000,4.5,Street Food
+Y_37,Yogyakarta,Bakmi Jawa Jo'Kleru Mbah Pawiro,F&B,Bakmi Jawa,25.000-50.000,4.6,Main Course
+Y_38,Yogyakarta,Seafood Pak Jenggot,F&B,Seafood,>50.000,4.5,Main Course
+Y_39,Yogyakarta,Cak No Chinese Food,F&B,"Nasi Goreng, Mie Goreng, Fu yung hai",25.000-50.000,4.8,Main Course
+Y_40,Yogyakarta,Gudeg Mercon Bu Tinah,F&B,Gudeg Mercon,<25.000,4.2,Street Food
+Y_41,Yogyakarta,SBTB Lesehan Terang Bulan Malioboro,F&B,Burung Dara Goreng,25.000-50.000,4.4,Main Course
+Y_42,Yogyakarta,Ikan Bakar Bu Bambang,F&B,Ikan Bakar,>50.000,4.5,Main Course
+Y_43,Yogyakarta,Mangut Lele Dapur Asli Mbok Marto Ijoyo,F&B,Mangut Lele,>50.000,4.6,Main Course
+Y_44,Yogyakarta,Brownie Jogja Byfitrii,Munchies,Fudgie Brownies,>50.000,4.9,Snack
+Y_45,Yogyakarta,"Brownies Cinta Jogja, Jogokariyan",Munchies,Brownies,>50.000,4.3,Snack
+Y_46,Yogyakarta,"Bolu Susu Lembang Dan Bakpia Kukus Steven, Wirobrajan",Munchies,"Bolu Susu, Bolu Kukus, Bakpia Brokis",>50.000,4.7,Snack
+Y_47,Yogyakarta,Bakpia Jongkem Ireda,Munchies,Bakpia,25.000-50.000,4.4,Snack
+Y_48,Yogyakarta,Roti Bu Dalikin,Munchies,Marmer Cake,25.000-50.000,5,Snack
+Y_49,Yogyakarta,Amalia Cake and Snack,Munchies,Chiffon,25.000-50.000,4.5,Snack
+Y_50,Yogyakarta,Legit Snack & Co,Munchies,Roti Tradisional,<25.000,4.8,Street Snacks
+Y_51,Yogyakarta,Ronde Kauman Mbah Payem,Munchies,Ronde,<25.000,4.6,Street Snacks
+Y_52,Yogyakarta,Ma'am Ronde Wedang Lasmi,Munchies,Ronde,<25.000,4.5,Street Snacks
+Y_53,Yogyakarta,Delima Juice,Munchies,Jus Buah,<25.000,4.8,Street Snacks
+Y_54,Yogyakarta,Boba Party,Munchies,Bubble Milk Tea,<25.000,4.6,Street Snacks
+Y_55,Yogyakarta,Mey Drink Boba,Munchies,Bubble Milk Tea,<25.000,3.9,Street Snacks
+Y_56,Yogyakarta,Es Kelapa Muda Lempuyangan,Munchies,Es Degan,<25.000,4.8,Street Snacks
+Y_57,Yogyakarta,Dawet Mbah Hari Pasar Beringharjo,Munchies,Dawet,<25.000,4.7,Street Snacks
+Y_58,Yogyakarta,Depot Dawet TIMOHO,Munchies,Dawet,<25.000,4.7,Street Snacks
+S_01,Surakarta,Bakpia Balong Solo,Munchies,Bakpia,>50.000,4.5,Snack
+S_02,Surakarta,Roti Merani,Munchies,Kue Kering,>50.000,4.6,Snack
+S_03,Surakarta,Kangen Solo,Munchies,Kue Ubin,25.000-50.000,4.9,Snack
+S_04,Surakarta,Roti Amira,Munchies,"Roti, kue",<25.000,4.6,Street Snacks
+S_05,Surakarta,Roti Dunay,Munchies,Roti,<25.000,5,Street Snacks
+S_06,Surakarta,Ummika Brownie,Munchies,Brownies,25.000-50.000,4.6,Snack
+S_07,Surakarta,Siliwangi Bolu Kukus Solo,Munchies,Bolu Kukus,25.000-50.000,4,Snack
+S_08,Surakarta,"Roti Kecil, Snack dan Jajan Pasar, Veteran",Munchies,Roti,<25.000,4.5,Street Snacks
+S_09,Surakarta,"Roti Gembong Ergos, Brigjend Sudiarto",Munchies,Roti Gembong,<25.000,4.3,Street Snacks
+S_10,Surakarta,Bakpao La Rissa,Munchies,Bakpao,<25.000,4.6,Street Snacks
+S_11,Surakarta,Serabi Dimi Kalilarangan,Munchies,Serabi Notosuman,<25.000,4.7,Street Snacks
+S_12,Surakarta,Warung Kita,Munchies,Sosis Solo,<25.000,4.4,Street Snacks
+S_13,Surakarta,Omah Peyek Bunder,Munchies,Peyek,<25.000,4.9,Street Snacks
+S_14,Surakarta,Apem Sewu BibiMia,Munchies,Apem,25.000-50.000,5,Snack
+S_15,Surakarta,Pukis Badran,Munchies,Pukis,>50.000,4.6,Snack
+S_16,Surakarta,Rambak Kedelai Mr.San,Munchies,"Rambak kedelai, keripik tempe",<25.000,4,Street Snacks
+S_17,Surakarta,Aesar Risoll,Munchies,Risoles,25.000-50.000,4.5,Snack
+S_18,Surakarta,Toko Ochi Official,Munchies,Keripik kulit,<25.000,4.8,Street Snacks
+S_19,Surakarta,Aydaa Snack,Munchies,Keripik usus pedas,<25.000,4.7,Street Snacks
+S_20,Surakarta,Ksatria,Munchies,Abon,>50.000,4.9,Snack
+S_21,Surakarta,"Es Ndelik, Serengan",Munchies,"Es Campur, Jus",<25.000,4.6,Street Snacks
+S_22,Surakarta,Es Degan Si Doel,Munchies,Es Degan,<25.000,4.5,Street Snacks
+S_23,Surakarta,Garasi Juice,Munchies,Jus Buah,<25.000,4.4,Street Snacks
+S_24,Surakarta,Minoom.Ahh,Munchies,Milk Tea,<25.000,4.5,Street Snacks
+S_25,Surakarta,Juice Buah Segar Berkah,Munchies,Jus Buah,<25.000,4.3,Street Snacks
+S_26,Surakarta,Estekita,Munchies,Es Teh,<25.000,4.7,Street Snacks
+S_27,Surakarta,Caocincao Cincau Hijau,Munchies,Es Cincau,<25.000,4.2,Street Snacks
+S_28,Surakarta,Cha Nom Milk Boba,Munchies,Bubble Milk Tea,<25.000,4.4,Street Snacks
+S_29,Surakarta,Es Degan Pak Mukhlis,Munchies,Es degan,<25.000,4.6,Street Snacks
+S_30,Surakarta,Nasi Liwet Yu Tukinem,F&B,Nasi Liwet,<25.000,4.4,Street Food
+S_31,Surakarta,Tahu Kupat Sido Mampir Masjid Solihin,F&B,Tahu Kupat,<25.000,4.5,Street Food
+S_32,Surakarta,Bakso Pak Ruk,F&B,Bakso,25.000-50.000,4.5,Main Course
+S_33,Surakarta,Soto & Sop Ayam Sari Prasojo,F&B,"Soto, Sop Ayam",<25.000,5,Street Food
+S_34,Surakarta,Warung Pojok Depan SD Warga,F&B,Soto Daging,<25.000,4.6,Street Food
+S_35,Surakarta,Sumber Bestik Pak Darmo,F&B,Bestik Sapi,25.000-50.000,5,Main Course
+S_36,Surakarta,Gudeg Mbak Yus,F&B,Gudeg,>50.000,4.4,Main Course
+S_37,Surakarta,Ayam Goreng Kampung Mbak Dewi,F&B,Ayam Goreng Kampung,>50.000,4.7,Main Course
+S_38,Surakarta,Warung Makan Gempol Pleret dan Mie Thoprak Mangkuyudan,F&B,Bakmie Toprak,<25.000,4.5,Street Food
+S_39,Surakarta,Harjo Bestik Pasar Kembang,F&B,Bestik Sapi,25.000-50.000,4.5,Main Course
+S_40,Surakarta,Warung Bestik Pak Pur,F&B,Bestik Sapi,25.000-50.000,4.5,Main Course
+S_41,Surakarta,Ayam Goreng Mbak Mul,F&B,Ayam Goreng,>50.000,4.4,Main Course
+S_42,Surakarta,Ayam Kampung Goreng Mbah Karto Tembel,F&B,Ayam Goreng,>50.000,4.6,Main Course
+S_43,Surakarta,Nasi Liwet Yu Sani ,F&B,Nasi Liwet,<25.000,4.6,Street Food
+S_44,Surakarta,Nasi Liwet Yu Lestari,F&B,Nasi Liwet,<25.000,4.4,Street Food
+S_45,Surakarta,Bakso & Mie Ayam Oshin Laris,F&B,Bakso,25.000-50.000,4.7,Main Course
+S_46,Surakarta,Dawet Telasih Bu Dermi Pasar Gede,Munchies,Dawet,<25.000,4.4,Street Snacks
+S_47,Surakarta,Es Campur Pak Kutir,Munchies,Es Campur,<25.000,4.5,Street Snacks
+S_48,Surakarta,"Big Size Juice Jus Bar, Laweyan",Munchies,Jus buah,<25.000,4.7,Street Snacks
+S_49,Surakarta,Es Krim Durian Rindu,Munchies,Es Krim Durian,<25.000,4.4,Street Snacks
+S_50,Surakarta,"Burung Muda Coffee, Keprabon",Munchies,Kopi susu,<25.000,4,Street Snacks
+S_51,Surakarta,Lentera Handycraft & Rajut Tas Grosir & Ecer,Craft,Dompet rajut,>50.000,5,Souvenir
+S_52,Surakarta,Hanadia Souvenir & Craft,Craft,"Clutch, souvenir",>50.000,4.5,Souvenir
+S_53,Surakarta,Suryo Art Craft,Craft,Wayang,>50.000,4.5,Souvenir
+S_54,Surakarta,Handicraft Kaca Lukis,Craft,Kaca Lukis,>50.000,5,Souvenir
+S_55,Surakarta,Hiasan Dinding Solo,Craft,Hiasan dinding,<25.000,4.5,Daily Needs
+S_56,Surakarta,Woodycraft.id,Craft,"Kerajinan kayu, wrist rest ",>50.000,4.3,Household Items
+S_57,Surakarta,Ucthiq craft,Craft,"Pouch, dompet, tas",25.000-50.000,4.9,Souvenir
+S_58,Surakarta,Naura Craft Solo,Craft,"Rajutan, tas, dompet, bros",<25.000,5,Souvenir
+S_59,Surakarta,Widya Tunggal,Craft,Celengan,<25.000,4.6,Daily Needs
+S_60,Surakarta,Solo Ethnic,Craft,Kalung etnik,<25.000,4.9,Souvenir
+S_61,Surakarta,Rajut Apik,Craft,"Dompet, tas, boneka rajut daur ulang",25.000-50.000,5,Souvenir
+S_62,Surakarta,Lentik Handycraft,Craft,"Bantal, Kerajinan flanel",25.000-50.000,4.5,Daily Needs
+S_63,Surakarta,Jual Murah.id,Craft,"Celengan kayu jati, kotak tisu",>50.000,4.8,Household Items
+S_64,Surakarta,Rafastoresolo,Craft,"Map, kotak pensil, dompet daur ulang",25.000-50.000,4.7,Daily Needs
+S_65,Surakarta,Ola Store,Fashion,"Kain Lurik, Busana Jawa",>50.000,4.9,Formal Fashion
+S_66,Surakarta,LC Fashion,Fashion,Pakaian wanita,>50.000,4.7,Formal Fashion
+S_67,Surakarta,Toko Surabaya,Fashion,"Kaos Motif, Kemeja Pria",25.000-50.000,5,Formal Fashion
+S_68,Surakarta,Citra Busana,Fashion,Kemeja Batik Pria,>50.000,4.8,Formal Fashion
+S_69,Surakarta,Grosir Kaos Pasar Klewer Solo Putri Srono,Fashion,Kaos,25.000-50.000,5,Casual Fashion
+S_70,Surakarta,Ratu Fashion Solo ,Fashion,Pakaian wanita,>50.000,4.6,Formal Fashion
+S_71,Surakarta,Pengrajin Blangkon Kaswanto,Fashion,Blangkon,<25.000,4.5,Formal Fashion
+S_72,Surakarta,Jaya Busana Solo,Fashion,Daster,25.000-50.000,5,Casual Fashion
+S_73,Surakarta,Sajadah Batik Tirtomartani Solo,Fashion,"Kemeja Batik, Rok Batik",>50.000,4.4,Formal Fashion
+S_74,Surakarta,Shafira Solo,Fashion,Baju muslim,>50.000,5,Formal Fashion
+S_75,Surakarta,Daster Grosir Solo,Fashion,Daster,<25.000,4.8,Casual Fashion
+S_76,Surakarta,Cio Clothing,Fashion,Celana rumah,<25.000,4.7,Casual Fashion
+B_01,Bali,Sunrise Outlet,Fashion,Kaos streetwear,25.000-50.000,4.6,Casual Fashion
+B_02,Bali,Grosir Baju Barong Bali,Fashion,Baju Barong,<25.000,4.9,Casual Fashion
+B_03,Bali,Store_Mallory,Fashion,Kaos Bali,<25.000,4.8,Casual Fashion
+B_04,Bali,Sukawati Souvenir,Fashion,"Pakaian wanita, Tie Dye",25.000-50.000,4.9,Casual Fashion
+B_05,Bali,Cap Bali,Fashion,"Pakaian tropis wanita, batik",>50.000,4.7,Casual Fashion
+B_06,Bali,Ni Made Dunung,Fashion,"Kaos Bali, Tie Dye, Tas Rotan",<25.000,5,Casual Fashion
+B_07,Bali,Taruna Bali Udeng,Fashion,"Rayon, Udeng",>50.000,4.7,Formal Fashion
+B_08,Bali,Bali Modis,Fashion,"Kaos Wanita, Daster",<25.000,4.9,Casual Fashion
+B_09,Bali,Mason Chocolates,Munchies,Coklat,25.000-50.000,4.9,Snack
+B_10,Bali,Cakelin Bali,Munchies,Kue Bolu ,>50.000,5,Snack
+B_11,Bali,Bite Bali,Munchies,Croissant,25.000-50.000,4.6,Snack
+B_12,Bali,Bali Forages,Munchies,"Beef jerky, keripik daging, dendeng",>50.000,4.9,Snack
+B_13,Bali,IniTempe Bali,Munchies,Keripik tempe,25.000-50.000,4.9,Snack
+B_14,Bali,Pia Cinta,Munchies,Pia,25.000-50.000,4.5,Snack
+B_15,Bali,Bali Bon Bon,Munchies,Coklat,<25.000,4.6,Street Snacks
+B_16,Bali,Pia Bintang Baturiti,Munchies,Pia,>50.000,4.9,Snack
+B_17,Bali,Poklahsar Taman Grya,Munchies,Keripik ikan,25.000-50.000,3.8,Snack
+B_18,Bali,Warung Adi,F&B,Nasi Campur Ayam Khas Bali,25.000-50.000,4.7,Main Course
+B_19,Bali,Nasi Pedas Bu Hanif,F&B,Nasi Pedas,25.000-50.000,4.5,Main Course
+B_20,Bali,Nasi Jinggo Wikowi,F&B,Nasi Jinggo,<25.000,4.4,Street Food
+B_21,Bali,Warung Liku,F&B,Ayam Betutu,>50.000,4.7,Main Course
+B_22,Bali,Nasi Bali Men Weti,F&B,Nasi Campur Ayam Khas Bali,25.000-50.000,4.7,Main Course
+B_23,Bali,Nasi Tahu Ni Sarti,F&B,Nasi Tahu,<25.000,4.9,Street Food
+B_24,Bali,Nasi Lawar Nang Etonk,F&B,Lawar Gurita,<25.000,4.6,Street Food
+B_25,Bali,Warung Adnyana,F&B,"Nasi Campur, Tipat Kuah",25.000-50.000,4.6,Main Course
+B_26,Bali,Warung 24/7,F&B,Seafood,>50.000,4.4,Main Course
+B_27,Bali,Warung Seafood Garage,F&B,Seafood,>50.000,5,Main Course
+B_28,Bali,Ayam betutu byangde,F&B,Ayam Betutu,>50.000,4.7,Main Course
+B_29,Bali,Betutu Ibu Rai Kalam,F&B,Ayam Betutu,>50.000,4.6,Main Course
+B_30,Bali,Cak Tris Seafood Nasional,F&B,Seafood,>50.000,4.3,Main Course
+B_31,Bali,Uyah Sera,F&B,Nasi Campur Khas Bali,25.000-50.000,4.5,Main Course
+B_32,Bali,DC Donut Monang Maning,Munchies,Donat,25.000-50.000,4.1,Snack
+B_33,Bali,Rabbit Hole Bakery,Munchies,Croissant,25.000-50.000,4.6,Snack
+B_34,Bali,Taco Thai Tea,Munchies,Thai Tea,<25.000,4.6,Street Snacks
+B_35,Bali,Momma Juices,Munchies,Jus buah,25.000-50.000,4.7,Snack
+B_36,Bali,Cheese Tea Inc,Munchies,Cheese Tea,25.000-50.000,4.8,Snack
+B_37,Bali,Bli.Es,Munchies,"Thai Tea, Greentea, yoghurt",<25.000,4.9,Street Snacks
+B_38,Bali,"Sensasi Kopi, Gajah Mada Tabanan",Munchies,Kopi ,<25.000,4.7,Street Snacks
+B_39,Bali,Gamon Coffe,Munchies,Kopi,<25.000,5.6,Street Snacks
+B_40,Bali,Buchadi Kombucha,Munchies,Kombucha,25.000-50.000,4.8,Snack
+B_41,Bali,Panko Ubud,Munchies,"Mille crepes, fruit sandwich, pie buah",<25.000,3.7,Street Snacks
+B_42,Bali,Gulali Donuts,Munchies,Donat,25.000-50.000,4.3,Snack
+B_43,Bali,Masayu Cakes,Munchies,"Pia, Fudgy Brownies",25.000-50.000,4.2,Snack
+B_44,Bali,Bli Ketut Ukir,Craft,Papan nama ukiran,>50.000,5,Household Items
+B_45,Bali,Zenly Bright,Craft,Nampan kayu jati,>50.000,4.9,Household Items
+B_46,Bali,Bali Miho,Craft,Kap lampu rotan,>50.000,4.9,Household Items
+B_47,Bali,Karunia Bali Rotan,Craft,Cermin rotan,>50.000,5,Household Items
+B_48,Bali,Swaha Craft Shop,Craft,"Piring kayu, nampan kayu, tempat sabun",<25.000,4.8,Daily Needs
+B_49,Bali,Tas Rotan Yola,Craft,Tas Rotan,>50.000,4.9,Souvenir
+B_50,Bali,Dream Catcher Bali,Craft,Dream Catcher,25.000-50.000,4.9,Souvenir
+B_51,Bali,Kipas Bee Handycrafts,Craft,Kipas,>50.000,4.8,Household Items
+B_52,Bali,Craft Dewata,Craft,"Gelang Sangadatu Khas Bali, Gelang Manik",<25.000,4.9,Souvenir
+B_53,Bali,Made Sukawati,Craft,Patung Ukiran Kayu,25.000-50.000,4.8,Daily Needs
+B_54,Bali,Nyoman Jami Art Shop,Craft,Topeng Barong,>50.000,5,Souvenir
+B_55,Bali,Kusuma Silver,Craft,"Gelang, Cincin, Kalung Silver",>50.000,4.8,Souvenir
+B_56,Bali,Manikwangi Jewelry,Craft,Gelang Manik-Manik,25.000-50.000,4.7,Souvenir
+B_57,Bali,Sukawati Mesari,Craft,"Gelang Jalin, Gelang Kerang, Kalung Kerang",<25.000,4.9,Souvenir
+B_58,Bali,Alesha Ramadhani,Craft,Kipas Tangan khas Bali,<25.000,5,Daily Needs
+BD_01,Bandung,Mr. Quiliting,Fashion,Puffy bag,>50.000,4.7,Casual Fashion
+BD_02,Bandung,WANSSTORE.CO.ID,Fashion,"Sweater, hoodie",>50.000,4.8,Casual Fashion
+BD_03,Bandung,Starverssy.co,Fashion,Pakaian wanita,25.000-50.000,4.9,Formal Fashion
+BD_04,Bandung,WHSTL. Store,Fashion,Kaos streetwear,>50.000,4.9,Casual Fashion
+BD_05,Bandung,Finewale,Fashion,Kaos dan hoodie polos,>50.000,4.8,Casual Fashion
+BD_06,Bandung,ARD Distro BDG,Fashion,Kaos distro,25.000-50.000,4.5,Casual Fashion
+BD_07,Bandung,Melatechnotic,Fashion,Batik,>50.000,5,Formal Fashion
+BD_08,Bandung,Maraya Scraft,Fashion,Hijab,>50.000,4.9,Formal Fashion
+BD_09,Bandung,Versuscity,Fashion,Pakaian muslimah,>50.000,4.9,Formal Fashion
+BD_10,Bandung,Toko SundaOkey,Fashion,Iket Sunda,>50.000,4.5,Formal Fashion
+BD_11,Bandung,Ki Sunda Motekar,Fashion,Kemeja Koko,>50.000,4.8,Formal Fashion
+BD_12,Bandung,Neng Lina Kebaya,Fashion,Kebaya,>50.000,4.8,Formal Fashion
+BD_13,Bandung,Rumah Kebaya Bandung,Fashion,Kebaya,>50.000,4.8,Formal Fashion
+BD_14,Bandung,Manonjaya Batik,Fashion,Batik,>50.000,4.6,Formal Fashion
+BD_15,Bandung,Cuanki Endos,Munchies,Cuanki,<25.000,4.7,Street Snacks
+BD_16,Bandung,Cuanki Mangdul 24jam,Munchies,Cuanki,<25.000,4.5,Street Snacks
+BD_17,Bandung,Seblak Syahrini,Munchies,Seblak,<25.000,4.4,Street Snacks
+BD_18,Bandung,Seblak Ooh Bama,Munchies,Seblak,<25.000,4.3,Street Snacks
+BD_19,Bandung,Batagor Kiciwis,Munchies,Batagor,<25.000,4.7,Street Snacks
+BD_20,Bandung,Batagor Asli Juanda,Munchies,Batagor,<25.000,4.6,Street Snacks
+BD_21,Bandung,Es Puter Easy,Munchies,Es puter literan,>50.000,4.6,Snack
+BD_22,Bandung,Fadya Juice & Es Kelapa,Munchies,Jus Buah,<25.000,4.8,Street Snacks
+BD_23,Bandung,Milktea Kittyew,Munchies,Milk Tea,<25.000,4.9,Street Snacks
+BD_24,Bandung,Batagor Riri,Munchies,Batagor,<25.000,4.2,Street Snacks
+BD_25,Bandung,Seblak Ramdhan,Munchies,Seblak,<25.000,4.3,Street Snacks
+BD_26,Bandung,Cuanki Wildan,Munchies,Cuanki,<25.000,4.5,Street Snacks
+BD_27,Bandung,On.loc,F&B,Masakan Indonesia,25.000-50.000,4.3,Main Course
+BD_28,Bandung,Sekoteng Joss jahe merah,F&B,Sekoteng,<25.000,4.8,Street Food
+BD_29,Bandung,Soto Bandung M. Tarya,F&B,Soto,>50.000,4.4,Main Course
+BD_30,Bandung,Mie Kocok Semar,F&B,Mie Kocok,25.000-50.000,4.4,Main Course
+BD_31,Bandung,Mie Kocok Kebun Jukut,F&B,Mie Kocok,25.000-50.000,4.4,Main Course
+BD_32,Bandung,Mie Kocok Persib Gorowok,F&B,Mie Kocok,25.000-50.000,4.5,Main Course
+BD_33,Bandung,Nasi Kuning Sumur Bandung,F&B,Nasi Kuning,<25.000,4.5,Street Food
+BD_34,Bandung,Nasi Kuning dan Uduk Pandu Ny. Shelvy,F&B,Nasi Kuning,<25.000,4.6,Street Food
+BD_35,Bandung,Mie Roemah,F&B,Mie,25.000-50.000,4.6,Main Course
+BD_36,Bandung,Seafood Kiloan Bang Bopak,F&B,Seafood,>50.000,4.2,Main Course
+BD_37,Bandung,Nasi Kalong,F&B,Makanan sehat,25.000-50.000,3.9,Main Course
+BD_38,Bandung,Nasi Kuning Pungkur,F&B,Nasi kuning,<25.000,4.5,Street Food
+BD_39,Bandung,Soto Bandung Pak Simon,F&B,Soto bandung,>50.000,4.6,Main Course
+BD_40,Bandung,Sekoteng Jahe Roni,F&B,Sekoteng,<25.000,4.3,Street Food
+BD_41,Bandung,WETAN Store,Craft,"Lanyard, klip kabel kulit",<25.000,4.6,Daily Needs
+BD_42,Bandung,My Pantry,Craft,Toples kaca variatif,>50.000,4.8,Household Items
+BD_43,Bandung,Rumah Gerabah,Craft,Wajan tanah liat,>50.000,4.7,Household Items
+BD_44,Bandung,Pengrajin Kayu,Craft,Mebel kayu,>50.000,4.3,Household Items
+BD_45,Bandung,Nana Pengrajin Loyang,Craft,Loyang makanan,25.000-50.000,4.9,Daily Needs
+BD_46,Bandung,Rustic Hut Craft,Craft,Lampion benang,<25.000,5,Souvenir
+BD_47,Bandung,Bale Angklung Bandung,Craft,"Angklung, gamelan, alat musik tradisional",>50.000,4.6,Souvenir
+BD_48,Bandung,Giri Harja Galery Art Wayang Golek,Craft,Wayang Golek ,>50.000,4.7,Souvenir
+BD_49,Bandung,Wayang Golek Bapak Ramdan,Craft,Wayang Golek ,>50.000,5,Souvenir
+BD_50,Bandung,Bandung Rustik Market,Craft,Kerajinan rotan,>50.000,4.9,Household Items
+BD_51,Bandung,Garasi Craft,Craft,Gantungan kunci,<25.000,5,Souvenir
+BD_52,Bandung,The Dreamer Craft,Craft,Gantungan kunci kulit,>50.000,5,Souvenir
+BD_53,Bandung,Rona Ratu Fashion,Craft,Anting bunga,<25.000,4.8,Souvenir
+BD_54,Bandung,Diah CraftShop,Craft,Tas Rajut,25.000-50.000,4.9,Souvenir
+BD_55,Bandung,Krizatnik.Craft,Craft,Tas Rajut,25.000-50.000,4.3,Souvenir
